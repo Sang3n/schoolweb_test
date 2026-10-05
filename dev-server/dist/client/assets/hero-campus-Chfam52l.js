@@ -1,0 +1,1 @@
+var e=`/assets/hero-campus-BGedaulx.jpg`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/assets/academics-BYnYOaDZ.jpg`;export{e as t};

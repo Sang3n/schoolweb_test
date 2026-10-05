@@ -1,0 +1,1 @@
+var e=`/assets/graduation-COnvTazp.jpg`;export{e as t};
